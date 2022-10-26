@@ -25,7 +25,7 @@ Our Innovations:
  
 
 Tech Stack:
-  --> For the implementation of solution of above problem statement we make a website which have above all proposed features.
+  --> For the implementation of solution of above problem statement we make a website which have above all proposed features. 
  --> For creating websit we use HTML, CSS, JAVA SCRIPT for frontend Nodejs and MongoDB for backend, we use/implement all these on our desktop.
  --> We use Github to make contributiton of each team member efficient in our project. 
 
